@@ -1,0 +1,13 @@
+﻿from;to;value;label;title;type
+21_AD;58_AD;4;Contenu;Proximité de contenu;contenus d'exposition proches
+21_AD;90_AD;4;Contenu;Proximité de contenu;contenus d'exposition proches
+21_AD;89_AD;4;Contenu;Proximité de contenu;contenus d'exposition proches
+58_AD;90_AD;4;Contenu;Proximité de contenu;contenus d'exposition proches
+58_AD;89_AD;4;Contenu;Proximité de contenu;contenus d'exposition proches
+90_AD;89_AD;4;Contenu;Proximité de contenu;contenus d'exposition proches
+71_AD;25_AD;3;Contenu;Proximité de contenu;contenus d'exposition proches
+70_AD;39_AD;3;Contenu;Proximité de contenu;contenus d'exposition proches
+21_AD;25_AD;2;Format;Proximité de format;Formats d'exposition proches
+21_AD;90_AD;2;Format;Proximité de format;Formats d'exposition proches
+71_AD;39_AD;2;Format;Proximité de format;Formats d'exposition proches
+70_AD;89_AD;3;Format;Proximité de format;Formats d'exposition proches
